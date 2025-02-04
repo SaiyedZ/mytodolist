@@ -65,7 +65,7 @@ Ensure you have Node.js and npm installed on your system.
 This project is licensed under the MIT License.
 
 ## Author
-Developed by **Your Name**.
+Developed by Saiyed.
 
 ## Contributions
 Contributions are welcome! Feel free to fork the repository and submit a pull request with enhancements or bug fixes.
